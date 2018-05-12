@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '892'
     url: http://www.gutenberg.org/2009/agents/892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42579#Scenic-Mount-Lowe-and-Its-Wonderful-Railway
 gutenberg_issued: '2013-04-22'
 gutenberg_type: Text
 identifiers:
